@@ -1,0 +1,5 @@
+(sym_lib_table
+  (lib (name pwr_BeagleBone)(type Legacy)(uri /home/andrew/racing/pcb/VCU_TEST_ECAD/Kicad/pwr_BeagleBone.lib)(options "")(descr ""))
+  (lib (name TCAN)(type Legacy)(uri /home/andrew/racing/pcb/VCU_TEST_ECAD/Kicad/TCAN.lib)(options "")(descr ""))
+  (lib (name project)(type Legacy)(uri ${KIPRJMOD}/project.lib)(options "")(descr ""))
+)

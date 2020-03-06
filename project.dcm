@@ -1,0 +1,14 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP R_Pack04
+D 4 resistor network, parallel topology, DIP package
+K R network parallel topology isolated
+F ~
+$ENDCMP
+#
+$CMP TCAN1042
+D TCAN1042 Fault Protected CAN Transceiver with CAN FD
+K High-Speed CAN Transceiver
+$ENDCMP
+#
+#End Doc Library
