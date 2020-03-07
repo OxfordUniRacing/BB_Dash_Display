@@ -5,8 +5,8 @@ $Descr A4 11693 8268
 encoding utf-8
 Sheet 1 1
 Title "Dashboard Display BeagleBone CAN & LCD"
-Date ""
-Rev "A"
+Date "2020-03-07"
+Rev "A2"
 Comp ""
 Comment1 ""
 Comment2 ""
@@ -1379,19 +1379,17 @@ Wire Wire Line
 $Comp
 L Device:R_Small R4
 U 1 1 5F2009F0
-P 4900 6900
-F 0 "R4" H 4959 6946 50  0000 L CNN
-F 1 "120" H 4959 6855 50  0000 L CNN
-F 2 "Resistor_SMD:R_0805_2012Metric" H 4900 6900 50  0001 C CNN
-F 3 "~" H 4900 6900 50  0001 C CNN
-F 4 "RC0805FR-07120RL" H 4900 6900 50  0001 C CNN "Part"
-	1    4900 6900
+P 5500 6900
+F 0 "R4" H 5559 6946 50  0000 L CNN
+F 1 "120" H 5559 6855 50  0000 L CNN
+F 2 "Resistor_SMD:R_0805_2012Metric" H 5500 6900 50  0001 C CNN
+F 3 "~" H 5500 6900 50  0001 C CNN
+F 4 "RC0805FR-07120RL" H 5500 6900 50  0001 C CNN "Part"
+	1    5500 6900
 	1    0    0    -1  
 $EndComp
 Wire Wire Line
 	4500 6800 4900 6800
-Wire Wire Line
-	4500 7000 4900 7000
 $Comp
 L project:R_Pack04 RN1
 U 1 1 5EC46765
@@ -1643,4 +1641,17 @@ Wire Wire Line
 Connection ~ 2600 4500
 Wire Wire Line
 	2600 4500 3000 4500
+$Comp
+L Device:Jumper JP2
+U 1 1 5E679252
+P 5200 6800
+F 0 "JP2" H 5200 6973 50  0000 C CNN
+F 1 "Jumper" H 5200 6973 50  0001 C CNN
+F 2 "Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Horizontal" H 5200 6800 50  0001 C CNN
+F 3 "~" H 5200 6800 50  0001 C CNN
+	1    5200 6800
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	4500 7000 5500 7000
 $EndSCHEMATC
