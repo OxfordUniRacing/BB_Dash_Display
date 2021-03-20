@@ -11,4 +11,10 @@ D TCAN1042 Fault Protected CAN Transceiver with CAN FD
 K High-Speed CAN Transceiver
 $ENDCMP
 #
+$CMP TPS61165
+D High-Brightness, White LED Driver
+K boost
+F ~
+$ENDCMP
+#
 #End Doc Library
