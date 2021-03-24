@@ -352,7 +352,7 @@
     (add_net "Net-(R5-Pad2)")
   )
 
-  (module Package_TO_SOT_SMD:SOT-23-6 (layer F.Cu) (tedit 5F6F9B37) (tstamp 6046448C)
+  (module archive:SOT-23-6 (layer F.Cu) (tedit 5F6F9B37) (tstamp 6046448C)
     (at 105.49 56.78)
     (descr "SOT, 6 Pin (https://www.jedec.org/sites/default/files/docs/Mo-178c.PDF variant AB), generated with kicad-footprint-generator ipc_gullwing_generator.py")
     (tags "SOT TO_SOT_SMD")
@@ -399,7 +399,7 @@
     )
   )
 
-  (module Package_TO_SOT_SMD:SOT-23-6 (layer F.Cu) (tedit 5F6F9B37) (tstamp 6046445B)
+  (module archive:SOT-23-6 (layer F.Cu) (tedit 5F6F9B37) (tstamp 6046445B)
     (at 99.84 60.13)
     (descr "SOT, 6 Pin (https://www.jedec.org/sites/default/files/docs/Mo-178c.PDF variant AB), generated with kicad-footprint-generator ipc_gullwing_generator.py")
     (tags "SOT TO_SOT_SMD")
@@ -446,7 +446,7 @@
     )
   )
 
-  (module Resistor_SMD:R_0805_2012Metric (layer F.Cu) (tedit 5F68FEEE) (tstamp 60464329)
+  (module archive:R_0805_2012Metric (layer F.Cu) (tedit 5F68FEEE) (tstamp 60464329)
     (at 107.91 63.49)
     (descr "Resistor SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
     (tags resistor)
@@ -482,7 +482,7 @@
     )
   )
 
-  (module Resistor_SMD:R_0805_2012Metric (layer F.Cu) (tedit 5F68FEEE) (tstamp 60464318)
+  (module archive:R_0805_2012Metric (layer F.Cu) (tedit 5F68FEEE) (tstamp 60464318)
     (at 109.07 60.48)
     (descr "Resistor SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
     (tags resistor)
@@ -518,7 +518,7 @@
     )
   )
 
-  (module Inductor_SMD:L_Bourns-SRN4018 (layer F.Cu) (tedit 5B471911) (tstamp 604641AB)
+  (module archive:L_Bourns-SRN4018 (layer F.Cu) (tedit 5B471911) (tstamp 604641AB)
     (at 94.21 57.33)
     (descr "Bourns SRN4018 series SMD inductor, https://www.bourns.com/docs/Product-Datasheets/SRN4018.pdf")
     (tags "Bourns SRN4018 SMD inductor")
@@ -560,7 +560,7 @@
     )
   )
 
-  (module Inductor_SMD:L_Bourns-SRN4018 (layer F.Cu) (tedit 5B471911) (tstamp 5E63B28F)
+  (module archive:L_Bourns-SRN4018 (layer F.Cu) (tedit 5B471911) (tstamp 5E63B28F)
     (at 113.03 106.045 180)
     (descr "Bourns SRN4018 series SMD inductor, https://www.bourns.com/docs/Product-Datasheets/SRN4018.pdf")
     (tags "Bourns SRN4018 SMD inductor")
@@ -602,7 +602,7 @@
     )
   )
 
-  (module Fuse:Fuseholder_Littelfuse_Nano2_154x (layer B.Cu) (tedit 5DB6AB26) (tstamp 5E626504)
+  (module archive:Fuseholder_Littelfuse_Nano2_154x (layer B.Cu) (tedit 5DB6AB26) (tstamp 5E626504)
     (at 93.98 86.36 180)
     (descr "Littelfuse NANO2 holder, https://www.littelfuse.com/~/media/electronics/datasheets/fuses/littelfuse_fuse_154_154t_154l_154tl_datasheet.pdf.pdf")
     (tags "SMD Nano2 holder")
@@ -642,7 +642,7 @@
     )
   )
 
-  (module Capacitor_SMD:C_0805_2012Metric (layer F.Cu) (tedit 5F68FEEE) (tstamp 604640A9)
+  (module archive:C_0805_2012Metric (layer F.Cu) (tedit 5F68FEEE) (tstamp 604640A9)
     (at 103.48 63.86)
     (descr "Capacitor SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf, https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
     (tags capacitor)
@@ -678,7 +678,7 @@
     )
   )
 
-  (module Capacitor_SMD:C_0805_2012Metric (layer F.Cu) (tedit 5F68FEEE) (tstamp 60464098)
+  (module archive:C_0805_2012Metric (layer F.Cu) (tedit 5F68FEEE) (tstamp 60464098)
     (at 110.29 56.06)
     (descr "Capacitor SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf, https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
     (tags capacitor)
@@ -714,7 +714,7 @@
     )
   )
 
-  (module Capacitor_SMD:C_1206_3216Metric (layer F.Cu) (tedit 5F68FEEE) (tstamp 60464087)
+  (module archive:C_1206_3216Metric (layer F.Cu) (tedit 5F68FEEE) (tstamp 60464087)
     (at 93.98 66.03)
     (descr "Capacitor SMD 1206 (3216 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
     (tags capacitor)
@@ -750,7 +750,7 @@
     )
   )
 
-  (module Capacitor_SMD:C_1206_3216Metric (layer F.Cu) (tedit 5F68FEEE) (tstamp 60464076)
+  (module archive:C_1206_3216Metric (layer F.Cu) (tedit 5F68FEEE) (tstamp 60464076)
     (at 100.09 56.23)
     (descr "Capacitor SMD 1206 (3216 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
     (tags capacitor)
@@ -786,7 +786,7 @@
     )
   )
 
-  (module Capacitor_SMD:C_0805_2012Metric (layer F.Cu) (tedit 5F68FEEE) (tstamp 60464065)
+  (module archive:C_0805_2012Metric (layer F.Cu) (tedit 5F68FEEE) (tstamp 60464065)
     (at 104.64 60.51)
     (descr "Capacitor SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf, https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
     (tags capacitor)
@@ -822,7 +822,7 @@
     )
   )
 
-  (module Capacitor_SMD:C_0805_2012Metric (layer F.Cu) (tedit 5F68FEEE) (tstamp 60464034)
+  (module archive:C_0805_2012Metric (layer F.Cu) (tedit 5F68FEEE) (tstamp 60464034)
     (at 99.03 63.86)
     (descr "Capacitor SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf, https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
     (tags capacitor)
@@ -858,7 +858,7 @@
     )
   )
 
-  (module Capacitor_SMD:C_1210_3225Metric (layer F.Cu) (tedit 5F68FEEE) (tstamp 60464023)
+  (module archive:C_1210_3225Metric (layer F.Cu) (tedit 5F68FEEE) (tstamp 60464023)
     (at 93.98 62.23)
     (descr "Capacitor SMD 1210 (3225 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
     (tags capacitor)
@@ -894,7 +894,7 @@
     )
   )
 
-  (module Capacitor_SMD:C_0805_2012Metric (layer F.Cu) (tedit 5F68FEEE) (tstamp 5E626484)
+  (module archive:C_0805_2012Metric (layer F.Cu) (tedit 5F68FEEE) (tstamp 5E626484)
     (at 115.57 137.16)
     (descr "Capacitor SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf, https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
     (tags capacitor)
@@ -930,7 +930,7 @@
     )
   )
 
-  (module Resistor_SMD:R_Array_Convex_4x0603 (layer B.Cu) (tedit 58E0A8B2) (tstamp 5E630EF6)
+  (module archive:R_Array_Convex_4x0603 (layer B.Cu) (tedit 58E0A8B2) (tstamp 5E630EF6)
     (at 96.52 125.73 90)
     (descr "Chip Resistor Network, ROHM MNR14 (see mnr_g.pdf)")
     (tags "resistor array")
@@ -978,7 +978,7 @@
     )
   )
 
-  (module Resistor_SMD:R_Array_Convex_4x0603 (layer B.Cu) (tedit 58E0A8B2) (tstamp 5E630EB1)
+  (module archive:R_Array_Convex_4x0603 (layer B.Cu) (tedit 58E0A8B2) (tstamp 5E630EB1)
     (at 107.95 125.73 90)
     (descr "Chip Resistor Network, ROHM MNR14 (see mnr_g.pdf)")
     (tags "resistor array")
@@ -1026,7 +1026,7 @@
     )
   )
 
-  (module Resistor_SMD:R_Array_Convex_4x0603 (layer B.Cu) (tedit 58E0A8B2) (tstamp 5E630E9A)
+  (module archive:R_Array_Convex_4x0603 (layer B.Cu) (tedit 58E0A8B2) (tstamp 5E630E9A)
     (at 111.76 125.73 90)
     (descr "Chip Resistor Network, ROHM MNR14 (see mnr_g.pdf)")
     (tags "resistor array")
@@ -1074,7 +1074,7 @@
     )
   )
 
-  (module Resistor_SMD:R_Array_Convex_4x0603 (layer B.Cu) (tedit 58E0A8B2) (tstamp 5E630E83)
+  (module archive:R_Array_Convex_4x0603 (layer B.Cu) (tedit 58E0A8B2) (tstamp 5E630E83)
     (at 115.57 125.73 90)
     (descr "Chip Resistor Network, ROHM MNR14 (see mnr_g.pdf)")
     (tags "resistor array")
@@ -1122,7 +1122,7 @@
     )
   )
 
-  (module Resistor_SMD:R_Array_Convex_4x0603 (layer B.Cu) (tedit 58E0A8B2) (tstamp 5E6266F3)
+  (module archive:R_Array_Convex_4x0603 (layer B.Cu) (tedit 58E0A8B2) (tstamp 5E6266F3)
     (at 119.38 125.73 90)
     (descr "Chip Resistor Network, ROHM MNR14 (see mnr_g.pdf)")
     (tags "resistor array")
@@ -1170,7 +1170,7 @@
     )
   )
 
-  (module project:OUR-Logo locked (layer B.Cu) (tedit 0) (tstamp 5E6448BE)
+  (module archive:OUR-Logo locked (layer B.Cu) (tedit 0) (tstamp 5E6448BE)
     (at 106.68 95.25 180)
     (fp_text reference G*** (at 0 0) (layer B.SilkS) hide
       (effects (font (size 1.524 1.524) (thickness 0.3)) (justify mirror))
@@ -1351,7 +1351,7 @@
       (xy -4.700861 -0.605307) (xy -4.5974 -0.5969) (xy -4.47361 -0.60835)) (layer B.Cu) (width 0.01))
   )
 
-  (module Jumper:SolderJumper-2_P1.3mm_Open_TrianglePad1.0x1.5mm (layer B.Cu) (tedit 5A64794F) (tstamp 5E639C65)
+  (module archive:SolderJumper-2_P1.3mm_Open_TrianglePad1.0x1.5mm (layer B.Cu) (tedit 5A64794F) (tstamp 5E639C65)
     (at 118.11 106.172 270)
     (descr "SMD Solder Jumper, 1x1.5mm Triangular Pads, 0.3mm gap, open")
     (tags "solder jumper open")
@@ -1389,7 +1389,7 @@
       ))
   )
 
-  (module Capacitor_SMD:C_0805_2012Metric (layer F.Cu) (tedit 5B36C52B) (tstamp 5E62A670)
+  (module archive:C_0805_2012Metric (layer F.Cu) (tedit 5B36C52B) (tstamp 5E62A670)
     (at 93.98 109.22 270)
     (descr "Capacitor SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
     (tags capacitor)
@@ -1425,7 +1425,7 @@
     )
   )
 
-  (module Capacitor_SMD:C_0805_2012Metric (layer F.Cu) (tedit 5B36C52B) (tstamp 5E62F09C)
+  (module archive:C_0805_2012Metric (layer F.Cu) (tedit 5B36C52B) (tstamp 5E62F09C)
     (at 83.82 109.22 270)
     (descr "Capacitor SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
     (tags capacitor)
@@ -1461,7 +1461,7 @@
     )
   )
 
-  (module project:PinHeader_2x23_P2.54mm_Vertical_Flip (layer F.Cu) (tedit 5E4AD15F) (tstamp 5E624108)
+  (module archive:PinHeader_2x23_P2.54mm_Vertical_Flip (layer F.Cu) (tedit 5E4AD15F) (tstamp 5E624108)
     (at 78.74 76.2)
     (descr "Through hole straight pin header, 2x23, 2.54mm pitch, double rows")
     (tags "Through hole pin header THT 2x23 2.54mm double row")
@@ -1591,7 +1591,7 @@
     )
   )
 
-  (module Resistor_SMD:R_0805_2012Metric (layer F.Cu) (tedit 5B36C52B) (tstamp 5E6467A7)
+  (module archive:R_0805_2012Metric (layer F.Cu) (tedit 5B36C52B) (tstamp 5E6467A7)
     (at 87.63 129.54)
     (descr "Resistor SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
     (tags resistor)
@@ -1627,7 +1627,7 @@
     )
   )
 
-  (module Capacitor_SMD:C_1206_3216Metric (layer F.Cu) (tedit 5B301BBE) (tstamp 5E63F10A)
+  (module archive:C_1206_3216Metric (layer F.Cu) (tedit 5B301BBE) (tstamp 5E63F10A)
     (at 116.84 110.49 270)
     (descr "Capacitor SMD 1206 (3216 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator")
     (tags capacitor)
@@ -1663,7 +1663,7 @@
     )
   )
 
-  (module Package_SO:SOIC-8_3.9x4.9mm_P1.27mm (layer F.Cu) (tedit 5D9F72B1) (tstamp 5E639363)
+  (module archive:SOIC-8_3.9x4.9mm_P1.27mm (layer F.Cu) (tedit 5D9F72B1) (tstamp 5E639363)
     (at 88.9 109.22 180)
     (descr "SOIC, 8 Pin (JEDEC MS-012AA, https://www.analog.com/media/en/package-pcb-resources/package/pkg_pdf/soic_narrow-r/r_8.pdf), generated with kicad-footprint-generator ipc_gullwing_generator.py")
     (tags "SOIC SO")
@@ -1714,7 +1714,7 @@
     )
   )
 
-  (module TestPoint:TestPoint_THTPad_D2.0mm_Drill1.0mm (layer B.Cu) (tedit 5A0F774F) (tstamp 5E6267DC)
+  (module archive:TestPoint_THTPad_D2.0mm_Drill1.0mm (layer B.Cu) (tedit 5A0F774F) (tstamp 5E6267DC)
     (at 99.06 91.44 180)
     (descr "THT pad as test Point, diameter 2.0mm, hole diameter 1.0mm")
     (tags "test point THT pad")
@@ -1735,7 +1735,7 @@
       (net 3 GND))
   )
 
-  (module TestPoint:TestPoint_THTPad_D2.0mm_Drill1.0mm (layer B.Cu) (tedit 5A0F774F) (tstamp 5E63090B)
+  (module archive:TestPoint_THTPad_D2.0mm_Drill1.0mm (layer B.Cu) (tedit 5A0F774F) (tstamp 5E63090B)
     (at 119.38 93.98 270)
     (descr "THT pad as test Point, diameter 2.0mm, hole diameter 1.0mm")
     (tags "test point THT pad")
@@ -1756,7 +1756,7 @@
       (net 3 GND))
   )
 
-  (module TestPoint:TestPoint_THTPad_D2.0mm_Drill1.0mm (layer B.Cu) (tedit 5A0F774F) (tstamp 5E630920)
+  (module archive:TestPoint_THTPad_D2.0mm_Drill1.0mm (layer B.Cu) (tedit 5A0F774F) (tstamp 5E630920)
     (at 119.38 88.9 270)
     (descr "THT pad as test Point, diameter 2.0mm, hole diameter 1.0mm")
     (tags "test point THT pad")
@@ -1777,7 +1777,7 @@
       (net 3 GND))
   )
 
-  (module TestPoint:TestPoint_THTPad_D2.0mm_Drill1.0mm (layer B.Cu) (tedit 5A0F774F) (tstamp 5E630A18)
+  (module archive:TestPoint_THTPad_D2.0mm_Drill1.0mm (layer B.Cu) (tedit 5A0F774F) (tstamp 5E630A18)
     (at 119.38 86.36 270)
     (descr "THT pad as test Point, diameter 2.0mm, hole diameter 1.0mm")
     (tags "test point THT pad")
@@ -1798,7 +1798,7 @@
       (net 1 +3V3))
   )
 
-  (module TestPoint:TestPoint_THTPad_D2.0mm_Drill1.0mm (layer B.Cu) (tedit 5A0F774F) (tstamp 5E6308F6)
+  (module archive:TestPoint_THTPad_D2.0mm_Drill1.0mm (layer B.Cu) (tedit 5A0F774F) (tstamp 5E6308F6)
     (at 119.38 91.44 270)
     (descr "THT pad as test Point, diameter 2.0mm, hole diameter 1.0mm")
     (tags "test point THT pad")
@@ -1819,7 +1819,7 @@
       (net 2 +5V))
   )
 
-  (module TestPoint:TestPoint_THTPad_D2.0mm_Drill1.0mm (layer B.Cu) (tedit 5A0F774F) (tstamp 5E6267B4)
+  (module archive:TestPoint_THTPad_D2.0mm_Drill1.0mm (layer B.Cu) (tedit 5A0F774F) (tstamp 5E6267B4)
     (at 99.06 93.98 180)
     (descr "THT pad as test Point, diameter 2.0mm, hole diameter 1.0mm")
     (tags "test point THT pad")
@@ -1840,7 +1840,7 @@
       (net 115 /V_IN))
   )
 
-  (module TestPoint:TestPoint_THTPad_D2.0mm_Drill1.0mm (layer B.Cu) (tedit 5A0F774F) (tstamp 5E6334F7)
+  (module archive:TestPoint_THTPad_D2.0mm_Drill1.0mm (layer B.Cu) (tedit 5A0F774F) (tstamp 5E6334F7)
     (at 106.045 111.76)
     (descr "THT pad as test Point, diameter 2.0mm, hole diameter 1.0mm")
     (tags "test point THT pad")
@@ -1861,7 +1861,7 @@
       (net 4 /LED-))
   )
 
-  (module TestPoint:TestPoint_THTPad_D2.0mm_Drill1.0mm (layer B.Cu) (tedit 5A0F774F) (tstamp 5E6267A4)
+  (module archive:TestPoint_THTPad_D2.0mm_Drill1.0mm (layer B.Cu) (tedit 5A0F774F) (tstamp 5E6267A4)
     (at 106.045 114.3)
     (descr "THT pad as test Point, diameter 2.0mm, hole diameter 1.0mm")
     (tags "test point THT pad")
@@ -1882,7 +1882,7 @@
       (net 5 /LED+))
   )
 
-  (module TestPoint:TestPoint_THTPad_D2.0mm_Drill1.0mm (layer B.Cu) (tedit 5A0F774F) (tstamp 5E62679C)
+  (module archive:TestPoint_THTPad_D2.0mm_Drill1.0mm (layer B.Cu) (tedit 5A0F774F) (tstamp 5E62679C)
     (at 118.11 101.6)
     (descr "THT pad as test Point, diameter 2.0mm, hole diameter 1.0mm")
     (tags "test point THT pad")
@@ -1903,7 +1903,7 @@
       (net 66 /EHRPWM1A))
   )
 
-  (module Resistor_SMD:R_0805_2012Metric (layer F.Cu) (tedit 5B36C52B) (tstamp 5E63B38B)
+  (module archive:R_0805_2012Metric (layer F.Cu) (tedit 5B36C52B) (tstamp 5E63B38B)
     (at 115.57 114.3)
     (descr "Resistor SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
     (tags resistor)
@@ -1939,7 +1939,7 @@
     )
   )
 
-  (module Resistor_SMD:R_0805_2012Metric (layer F.Cu) (tedit 5B36C52B) (tstamp 5E63D475)
+  (module archive:R_0805_2012Metric (layer F.Cu) (tedit 5B36C52B) (tstamp 5E63D475)
     (at 118.745 106.045 90)
     (descr "Resistor SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
     (tags resistor)
@@ -1975,7 +1975,7 @@
     )
   )
 
-  (module Resistor_SMD:R_0805_2012Metric (layer F.Cu) (tedit 5B36C52B) (tstamp 5E631CE0)
+  (module archive:R_0805_2012Metric (layer F.Cu) (tedit 5B36C52B) (tstamp 5E631CE0)
     (at 109.22 137.16)
     (descr "Resistor SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
     (tags resistor)
@@ -2011,7 +2011,7 @@
     )
   )
 
-  (module project:PinHeader_2x23_P2.54mm_Vertical_Flip (layer F.Cu) (tedit 5E4AD15F) (tstamp 5E6241C5)
+  (module archive:PinHeader_2x23_P2.54mm_Vertical_Flip (layer F.Cu) (tedit 5E4AD15F) (tstamp 5E6241C5)
     (at 127 76.2)
     (descr "Through hole straight pin header, 2x23, 2.54mm pitch, double rows")
     (tags "Through hole pin header THT 2x23 2.54mm double row")
@@ -2141,7 +2141,7 @@
     )
   )
 
-  (module Connector_FFC-FPC:Hirose_FH12-40S-0.5SH_1x40-1MP_P0.50mm_Horizontal locked (layer B.Cu) (tedit 5E623EC1) (tstamp 5E62BC6C)
+  (module archive:Hirose_FH12-40S-0.5SH_1x40-1MP_P0.50mm_Horizontal locked (layer B.Cu) (tedit 5E623EC1) (tstamp 5E62BC6C)
     (at 101.6 129.54 180)
     (descr "Hirose FH12, FFC/FPC connector, FH12-40S-0.5SH, 40 Pins per row (https://www.hirose.com/product/en/products/FH12/FH12-24S-0.5SH(55)/), generated with kicad-footprint-generator")
     (tags "connector Hirose FH12 horizontal")
@@ -2275,7 +2275,7 @@
     )
   )
 
-  (module Connector_Molex:Molex_SPOX_5268-03A_1x03_P2.50mm_Horizontal (layer B.Cu) (tedit 5D91FF17) (tstamp 6046490D)
+  (module archive:Molex_SPOX_5268-03A_1x03_P2.50mm_Horizontal (layer B.Cu) (tedit 5D91FF17) (tstamp 6046490D)
     (at 113.03 81.28)
     (descr "Molex SPOX Connector System, 5268-03A, 3 Pins per row (https://www.molex.com/pdm_docs/sd/022057045_sd.pdf), generated with kicad-footprint-generator")
     (tags "connector Molex SPOX horizontal")
@@ -2318,7 +2318,7 @@
     )
   )
 
-  (module Connector_Molex:Molex_SPOX_5268-02A_1x02_P2.50mm_Horizontal (layer B.Cu) (tedit 5D91FF17) (tstamp 5E626545)
+  (module archive:Molex_SPOX_5268-02A_1x02_P2.50mm_Horizontal (layer B.Cu) (tedit 5D91FF17) (tstamp 5E626545)
     (at 83.82 81.28)
     (descr "Molex SPOX Connector System, 5268-02A, 2 Pins per row (https://www.molex.com/pdm_docs/sd/022057045_sd.pdf), generated with kicad-footprint-generator")
     (tags "connector Molex SPOX horizontal")
@@ -2359,7 +2359,7 @@
     )
   )
 
-  (module Diode_SMD:D_SOD-123 (layer F.Cu) (tedit 58645DC7) (tstamp 5E63B2F7)
+  (module archive:D_SOD-123 (layer F.Cu) (tedit 58645DC7) (tstamp 5E63B2F7)
     (at 109.22 110.49 90)
     (descr SOD-123)
     (tags SOD-123)
@@ -2403,7 +2403,7 @@
     )
   )
 
-  (module Diode_SMD:D_SOD-123 (layer F.Cu) (tedit 58645DC7) (tstamp 5E631549)
+  (module archive:D_SOD-123 (layer F.Cu) (tedit 58645DC7) (tstamp 5E631549)
     (at 92.456 82.55 180)
     (descr SOD-123)
     (tags SOD-123)
@@ -2447,7 +2447,7 @@
     )
   )
 
-  (module project:BeagleBone-Black_Flip locked (layer F.Cu) (tedit 5E4AC801) (tstamp 5E6247BA)
+  (module archive:BeagleBone-Black_Flip locked (layer F.Cu) (tedit 5E4AC801) (tstamp 5E6247BA)
     (at 127 76.2)
     (attr virtual)
     (fp_text reference REF** (at -12.065 -1.905) (layer F.SilkS) hide
