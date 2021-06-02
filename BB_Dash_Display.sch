@@ -793,9 +793,6 @@ Wire Wire Line
 	5850 1300 5800 1300
 Wire Wire Line
 	5850 1300 5850 1400
-Wire Wire Line
-	5850 5000 5600 5000
-Connection ~ 5850 5000
 Connection ~ 5850 1400
 Wire Wire Line
 	5850 1400 5800 1400
@@ -1391,18 +1388,6 @@ F 4 "DNP" H 9800 5900 50  0001 C CNN "DNP"
 	0    1    1    0   
 $EndComp
 $Comp
-L archive:Connector_Generic_MountingPin_Conn_01x40_MountingPin J1
-U 1 1 5E64F427
-P 5600 2800
-F 0 "J1" H 5518 4917 50  0000 C CNN
-F 1 "FH12-40S-0.5SH" H 5518 4826 50  0000 C CNN
-F 2 "archive:Hirose_FH12-40S-0.5SH_1x40-1MP_P0.50mm_Horizontal" H 5600 2800 50  0001 C CNN
-F 3 "~" H 5600 2800 50  0001 C CNN
-F 4 "FH12-40S-0.5SH" H 5600 2800 50  0001 C CNN "Part"
-	1    5600 2800
-	-1   0    0    -1  
-$EndComp
-$Comp
 L archive:project_R_Pack04 RN3
 U 1 1 5F2F2015
 P 6500 2800
@@ -1723,4 +1708,17 @@ F 4 "" H 5150 1300 50  0001 C CNN "Part"
 $EndComp
 Text Label 8750 5600 0    50   ~ 0
 V_IN
+$Comp
+L archive:Connector_Generic_MountingPin_Conn_01x40_MountingPin J1
+U 1 1 5E64F427
+P 5600 2800
+F 0 "J1" H 5518 4917 50  0000 C CNN
+F 1 "FH12-40S-0.5SH" H 5518 4826 50  0000 C CNN
+F 2 "archive:Hirose_FH12-40S-0.5SH_1x40-1MP_P0.50mm_Horizontal" H 5600 2800 50  0001 C CNN
+F 3 "~" H 5600 2800 50  0001 C CNN
+F 4 "FH12-40S-0.5SH" H 5600 2800 50  0001 C CNN "Part"
+	1    5600 2800
+	-1   0    0    -1  
+$EndComp
+NoConn ~ 5600 5000
 $EndSCHEMATC
